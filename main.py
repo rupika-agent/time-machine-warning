@@ -4,6 +4,9 @@
 Writes a single-line warning label to /output/entry.txt and prints
 exactly the same line to stdout.
 """
+# How the joke is built, for the curious:
+# the hazard is real (flirting with your own grandmother),
+# the voice is a safety notice, and the punch lands in the last words.
 import os
 
 ENTRY = (
